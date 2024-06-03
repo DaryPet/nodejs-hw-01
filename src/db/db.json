@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Kent Bruen",
+    "phone": "758.354.3000 x7314",
+    "email": "Estevan69@yahoo.com",
+    "job": "Forward Integration Developer"
+  },
+  {
+    "name": "Dr. Everett Beier",
+    "phone": "589-758-9680 x4989",
+    "email": "Alvera_Satterfield@hotmail.com",
+    "job": "Corporate Infrastructure Coordinator"
+  },
+  {
+    "name": "Mr. Alonzo Stokes",
+    "phone": "264-519-9528",
+    "email": "Salvatore_Nikolaus@yahoo.com",
+    "job": "Regional Group Facilitator"
+  },
+  {
+    "name": "Tracy Cremin I",
+    "phone": "995-746-7780 x8832",
+    "email": "Alia_Wolff31@gmail.com",
+    "job": "Product Accounts Liaison"
+  },
+  {
+    "name": "Diane Schuster",
+    "phone": "1-708-514-3860 x974",
+    "email": "Akeem.Walsh36@gmail.com",
+    "job": "Principal Quality Engineer"
+  }
+]
